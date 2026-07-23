@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kam Chun Yu, Jeffrey</h1>
 <h3 align="center">A passionate developer from Hong Kong</h3>
 
-<h3 align="left">Connect with me: kamkamjeffrey@gmail.com</h3>
 <p align="left">
 </p>
 
